@@ -1,3 +1,11 @@
 = First Post
 
-This is the first post
+This is the first 
+
+1. An update
+
+2. Another update
+
+= Second title
+
+
